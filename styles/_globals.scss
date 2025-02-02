@@ -17,6 +17,7 @@ body {
   background-color: var(--color-dark);
 }
 
+//чтобы main растягивался по высоте на доступный ему максимум. Так footer будет внизу
 main {
   flex-grow: 1;
 }
